@@ -32,7 +32,7 @@ EXAMPLE input and output:
 5 15 25
 1 12 22 32
 3 13 23 33
-Expected Output:
+
 Merged Array: [1, 3, 5, 10, 12, 13, 15, 20, 22, 23, 25, 30, 32, 33]
 
 QUESTION 4: Given N tasks, each with a profit and a deadline. Write a Python program to schedule the tasks such that the maximum profit is achieved, using a Max Priority Queue. Each task must be completed within its deadline (1-based index), and only one task can be scheduled at a time.
