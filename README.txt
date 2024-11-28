@@ -1,6 +1,7 @@
 # hw_1123552
 Author: Amylea
 Submission date: 2024.11.28
+Github link: https://github.com/Amyleea05/hw_1123552.git
 
 IMPORTANT NOTE!
 I used the cin or input commands in all the codes. Therefore, in order to get the output, you need to manually provide all the inputs. You can use examples on the documents or the example inputs and outputs below (that different from documents). 
